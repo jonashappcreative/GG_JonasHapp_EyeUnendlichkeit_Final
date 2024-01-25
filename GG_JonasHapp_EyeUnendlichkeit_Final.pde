@@ -2,8 +2,15 @@
 PShape Licht1;                                                           // Assets für das Licht
 PShape Licht2;
 PShape Licht3;
+
+#this is a new comment to test
+
+/* another test for git */
+
 int startCount = round(random(360));                                     //Random Start Position des Lichtes
 /*-----------------GG_JonasHapp_EyeUnendlichkeit_FinalGG_JonasHapp_EyeUnendlichkeit_FinalGG_JonasHapp_EyeUnendlichkeit_Final---------------------------------------------------*/
+
+#second commit
 
 void setup() {
   size(1080, 800, P3D);
